@@ -1,0 +1,35 @@
+---
+title: "Dominique Jolly"
+name: "dominique-jolly"
+image: "assets/keynotes/dominique.jpeg"
+color: "#5A59A3"
+links:
+  - label: LinkedIN
+    url: "https://www.linkedin.com/in/dominique-jolly-426b5938/"
+#   - label: Twitter
+#     url: "https://twitter.com/ProfPearce"
+#   - label: Open Science
+#     url: "https://osf.io/6psy8/"
+#   - label: Free Appropriate Sustainability Technology (FAST) Lab
+#     url: "https://www.appropedia.org/Category:FAST"
+output:
+    postcards::solana
+---
+
+<style>
+body {
+    background-color: #FFFFFF;
+}
+
+
+</style>
+
+ 
+<h2> <span class="highlight">China's Rapid Technological Transformation</span>: <br> Good news for Ecological Transition? </h2>
+
+ 
+Dominique Jolly is an independent advisor on foreign business with China. He works as a consultant for several large companies. 
+He also advises international organizations and foreign governments in the areas of innovation and technology. 
+
+His assignments have taken him to over twenty countries in Europe, Asia, North America, South America and Africa. He was previously Professor of Business Strategy. He worked for Webster University Geneva (Switzerland), SKEMA Business School (Sophia-Antipolis, France), the Center on China Innovation at CEIBS (Shanghai, China), HEC Montréal (Montréal, Canada) and Grenoble Ecole de Management (Grenoble, France).
+

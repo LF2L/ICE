@@ -52,6 +52,8 @@ navbar:
           href: keynote-ahmed-osman.html
         - text: "Prof. Alexander Brem"
           href: keynote-alex-brem.html          
+        - text: "PhD. Dominique Jolly"
+          href: keynote-dominique-jolly.html                    
     - text: "Papers-Workshops"
       menu:
         - text: "Call & key dates"
