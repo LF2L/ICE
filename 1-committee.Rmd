@@ -27,7 +27,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Yacine Rezgui, Cardiff University, United Kingdom (ICE 2021)
 - Thomas Beach, Cardiff University, United Kingdom (ICE 2021)
-- James Fleck, University of Edinburgh (ICE 2023)
+- James Fleck, University of Edinburgh, United Kingdom (ICE 2023)
+- Robert E. Bierwolf, IEEE TEMS and CeTIM, The Netherlands (IEEE Officer)
 
 ### Review chair
 - Marc Pallot, Arts & Métiers ParisTech, France
@@ -82,6 +83,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Paul Humphreys, Ulster University Business School, Northern Ireland
 - Pekka Abrahamsson, NTNU, Norway
 - Raul Poler, Universitat Politècnica de València, Spain
+- Robert E. Bierwolf, IEEE TEMS and CeTIM
 - Robert Kerr, Ulster University Business School
 - Roberto Santoro, ESoCE-Net, Italy
 - Rodney McAdam, Ulster University Business School
