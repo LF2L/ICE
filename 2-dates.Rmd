@@ -34,7 +34,7 @@ The registration fees for the conference are outlined below
 
 : \* Exchange rates 2022-03-10 for information. Only the rates in Euros are applicable.
 
-This registration fee covers:
+This registration fee covers :
 
 -   Submission of papers to IEEE
 -   Access to conference proceedings
