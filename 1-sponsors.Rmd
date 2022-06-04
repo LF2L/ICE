@@ -10,15 +10,12 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+```{r, layout="l-page"}
+knitr::include_graphics("figures/Sponsors/Diapositive1.jpeg")
+```
+
+
+
 Are you interested in sponsoring the conference ? 
 [**Sponsoring grid**](assets/2022_ICE-IAMOT_Sponsorship_Grid.pdf)
-
-
-## Local Organizers
-
-
-## Technical Sponsors
-
-
-## Supporting Institutions
-
