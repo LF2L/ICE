@@ -20,6 +20,11 @@ Equipped with a 600 m2 exhibition hall and a 2,400 m2 hall that can be adapted t
 1, place de la République
 CS 60663 - 54063 NANCY Cedex
 
+```{r, layout="l-body"}
+knitr::include_graphics("figures/visit-nancy/Map.jpg")
+```
+
+
 
 ## Nancy
 
