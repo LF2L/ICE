@@ -61,6 +61,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Gabriela Fernandes, University of Coimbra, Portugal
 - Gerhard Gudergan, RWTH Aachen, Germany
 - Ioan Sacala, University Politehnica of Bucharest, Romania
+- Imke De Kock, Stellenbosch University, South Africa
 - James Fleck, Technology Analysis  Strategic Management Journal/ University of Edinburgh
 - João Martins, UNINOVA – FCT/UNL, Portugal
 - João Sarraipa, UNINOVA, Portugal
@@ -91,7 +92,6 @@ knitr::opts_chunk$set(echo = FALSE)
 - Ruben Costa, UNINOVA, Portugal
 - Scott W. Cunningham, Delft University of Technology, Holland
 - Sergio Terzi, Politecnico di Milano, Italy
-- Gregory Zacharewicz, IMT Mines Alès, France
 
 :::
 
