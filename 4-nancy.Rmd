@@ -12,6 +12,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Centre Prouvé
 
+
+```{r, layout="l-screen", include=FALSE}
+knitr::include_graphics("figures/visit-nancy/Maps-01.jpg")
+```
+
+
 Located in the heart of the city, 1 minute's walk from Nancy's TGV station and the public transport hub, the **Prouvé Convention Center** is a state-of-the-art facility.
  
 Equipped with a 600 m2 exhibition hall and a 2,400 m2 hall that can be adapted to accommodate 2,400 people, 2 auditoriums (850 and 300 seats), 13 meeting rooms with simultaneous translation booths, a panoramic reception area for up to 1,200 people and a 455-space underground public parking lot, it is the ideal setting for organizing and hosting all types of events.
@@ -20,9 +26,10 @@ Equipped with a 600 m2 exhibition hall and a 2,400 m2 hall that can be adapted t
 1, place de la République
 CS 60663 - 54063 NANCY Cedex
 
-```{r, layout="l-body"}
+```{r, layout="l-body", fig.cap="[Here the link for Google Maps](https://www.google.com/maps/d/edit?mid=1qYCByo6cg4Meqk1aQow9rfPGgsUOtV_9&usp=sharing)"}
 knitr::include_graphics("figures/visit-nancy/Map.jpg")
 ```
+
 
 
 
