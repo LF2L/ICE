@@ -20,11 +20,18 @@ But, we are working in the construction of the final one:
 knitr::include_graphics("figures/programme/2022-05-18.png")
 ```
 
+```{r, layout="l-page", out.width='100%'}
+knitr::include_graphics("figures/programme/2022-05-18.png")
+```
+
+<div class="layout-chunk" data-layout="l-page">
 
 <center>
-
 <h3>Presentation ICE/IAMOT 2022</h3>
 <object data=
-"assets/ICE-ppt.pdf" width="100%" height="500"> 
+"assets/ICE-ppt.pdf" width="100%" height="700"> 
 </object>
 </center>
+
+
+</div>
