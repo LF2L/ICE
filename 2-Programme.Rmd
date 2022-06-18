@@ -21,7 +21,7 @@ knitr::include_graphics("figures/programme/2022-06-10-ICE-programme.jpg")
 ```
 
 
-<div class="layout-chunk" data-layout="l-page">
+<div class="layout-chunk" data-layout="l-screen-inset">
 <center>
 <h3>Presentation ICE/IAMOT 2022</h3>
 <object data=
