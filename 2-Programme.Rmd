@@ -28,6 +28,4 @@ knitr::include_graphics("figures/programme/2022-06-10-ICE-programme.jpg")
 "assets/ICE-ppt.pdf" width="100%" height="700"> 
 </object>
 </center>
-
-
 </div>

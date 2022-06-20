@@ -50,6 +50,20 @@ In 2020 and 2021 successively, two of the leading communities on Management of T
  
 In 2022, **for the first time ever these two communities will work together**, aiming to explore new ways for these technology management and innovation communities to interact and come up with innovative solutions to the critical global issues of our time.
 
+
+
+## Detailed Program
+
+
+<div class="layout-chunk" data-layout="l-screen-inset">
+<center>
+<object data=
+"assets/Detailed-program.pdf" width="100%" height="700"> 
+</object>
+</center>
+</div>
+
+
 ## Conference themes:
 
 -	R&D, Innovation and Entrepreneurship
