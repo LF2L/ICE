@@ -38,14 +38,10 @@ slickR::slickR(
 <h2>Technology, Engineering, and<br> Innovation Management Communities as Enablers for Social-Ecological Transitions</h2>
 :::
 
-### Follow Us online:
 
-https://stream.lifesizecloud.com/extension/14759083/46c358de-56a4-4166-9885-6fc63cd43a5d
-
-```{r, layout="l-body", fig.cap="[Here the link for the Online streaming](https://stream.lifesizecloud.com/extension/14759083/46c358de-56a4-4166-9885-6fc63cd43a5d)"}
-knitr::include_graphics("assets/Start.jpeg")
+```{r, layout="l-page", out.width='100%'}
+knitr::include_graphics("photos/final.jpg")
 ```
-
 
 
 
